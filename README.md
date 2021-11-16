@@ -17,3 +17,15 @@ Within company network: The application communicates dirrectly to a relational M
 Outside/Within company network: The application communicates to a TCP server hosted within the companies network that processes incoming client requests and handles communication with the database.
 
 The database holds all the normalized data for creating quotes (customer info, product info, pricing, etc) and holds saved quotes for future reference/updates. The client simply communicates to that database with a CRUD request either trough a TCP server or directly.
+
+# Screenshots
+![Home1](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/0.%20start1.jpg)
+![Home2](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/1.%20start2.jpg)
+![Header](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/2.%20header.jpg)
+![Triple](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/3.%20triple.jpg)
+![Mono](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/4.%20monolithic.jpg)
+![Custom](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/5.%20custom.jpg)
+![AC](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/6.%20AdditionalCosts.jpg)
+![Saved](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/7.%20Saved.jpg)
+![ViewQuote](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/8.%20ViewQuote.jpg)
+![PDF](https://github.com/Bradyac/QuoteTool/blob/main/Screenshots/9.%20PDF.jpg)
